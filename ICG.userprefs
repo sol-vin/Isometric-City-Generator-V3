@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ICG/IsometricFactory.cs">
+    <Files>
+      <File FileName="ICG/Game1.cs" Line="74" Column="23" />
+      <File FileName="ICG/Program.cs" Line="13" Column="3" />
+      <File FileName="ICG/Block.cs" Line="17" Column="1" />
+      <File FileName="ICG/Feature.cs" Line="11" Column="4" />
+      <File FileName="ICG/IsometricObject.cs" Line="19" Column="1" />
+      <File FileName="ICG/IsometricFactory.cs" Line="308" Column="51" />
+      <File FileName="ICG/Assets.cs" Line="307" Column="5" />
+      <File FileName="ICG/Tile.cs" Line="65" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
